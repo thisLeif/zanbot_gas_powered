@@ -1,2 +1,1 @@
-# dt_test
- test repo
+# Collaborative Chatbot for Discord
